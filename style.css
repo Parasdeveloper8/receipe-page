@@ -6,11 +6,11 @@
     border:1px solid white;
     background-color: white;
     border: 5px ;
-    width:450px;
+    width:700px;
     border-radius:10px;
     position:absolute;
-    left:35%;
-    right:35%;
+    left:26%;
+    right:26%;
 }
 body{
     width: 1440px;
@@ -30,13 +30,13 @@ img{
 }
 #ingre,#instr,#nutr{
     color: hsl(14, 45%, 36%);
-    font-family: 'Young Serif';
+    font-family: 'Young Serif',sans-serif;
     font-weight: 400;
     margin-left: 25px;
 }
 #Simplomre{
     margin-left: 25px;
-    font-family: ;
+    font-family: Outfit;
     font-weight: 400;
 }
 #prepare{
